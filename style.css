@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+blowButton{
+width:140px;
+height:40px;
+background-color:"yellow";
+background-size:cover;
+display:inline-block;
+cursor:pointer;
+transition-duration: 0.4s;
+outline: none;
+-webkit-transition-duration:0.4s;
+}
